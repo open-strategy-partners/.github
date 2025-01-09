@@ -6,7 +6,7 @@ OSP is an open source and B2B tech marketing agency. We align marketing strategy
 
 [Let's talk about your tech.](https://openstrategypartners.com/contact/)
 
-## Our open resources
+# Our open resources
 
 We openly share our thinking, tools, documentation and templates because good ideas are good ideas.
 
@@ -25,16 +25,17 @@ Our guides help us work and learn together, continuously improve how we do thing
 **[Sprint Guide](https://github.com/open-strategy-partners/sprint-guide):** Our brilliant sprint guide for running an open source community contribution sprint.
 
 
-
-
-### Other stuff you might like
+# Connect with us
 
 📝 **[The OSP Blog](https://openstrategypartners.com/blog/):** Opinions, insights, and more! We share our thoughts on product communication, strategy, and communication in and around technology.
 
 🎧 **[The OSP Podcast](https://openstrategypartners.com/resources/the-osp-podcast/):** Communicate, Connect, Grow. In our podcast, we talk about all things content and communication. We're here to share, we're here to learn!
 
+👫 Follow us on [LinkedIn](https://www.linkedin.com/company/open-strategy-partners-gmbh/) and sometimes [X (formerly known as Twitter)](https://twitter.com/open_strategy?=21&t=7iFeRsY0Ct2ZOHarPvxh6g).
 
-## The OSP Manifesto: Learn, Share, Repeat
+👋 [Reach out and and say Hi](https://openstrategypartners.com/contact/).
+
+# The OSP Manifesto: Learn, Share, Repeat
 
 <img src="https://openstrategypartners.com/_assets/processed/ssifJC8Hysqsqf_rR-YLaW6N_qG9rP9UjLv2UUQQ67s/q:85/c:1594.6666666667:897:fp:0.5:0.5/rt:force/w:400/h:225/fn:Y3NtX2xlYXJuLXNoYXJlLXJlcGVhdF8zOWI3ZjVlYzQ0:t/cb:ea4a4f6d18939e2f7818b0c910f3f791b334811d/bG9jYWw6L2ZpbGVhZG1pbi9CaWxkZXIvQWJvdXRfT1NQLW4tVGVhbV9QaG90b3MvbGVhcm4tc2hhcmUtcmVwZWF0LnBuZw" alt="OSP manifesto diagram" align="right"/>
 
