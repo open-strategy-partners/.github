@@ -22,6 +22,10 @@ Our guides help us work and learn together, continuously improve how we do thing
 
 **[Title and Meta Writing Guide](https://github.com/open-strategy-partners/titles-meta-guide):** Best practices for article titles, meta titles, meta descriptions, and slugs in B2B copywriting.
 
+**[Sprint Guide](https://github.com/open-strategy-partners/sprint-guide):** Our brilliant sprint guide for running an open source community contribution sprint.
+
+
+
 
 ### Other stuff you might like
 
