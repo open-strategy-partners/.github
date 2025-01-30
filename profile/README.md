@@ -24,6 +24,9 @@ Our guides help us work and learn together, continuously improve how we do thing
 
 **[Sprint Guide](https://github.com/open-strategy-partners/sprint-guide):** Our brilliant sprint guide for running an open source community contribution sprint.
 
+### Tools
+
+**[MCP for OSP Marketing Tools](https://github.com/open-strategy-partners/osp_marketing_tools):** A Model Context Protocol (MCP) server that empowers LLMs to use some of Open Srategy Partners' core writing and product marketing techniques.
 
 # Connect with us
 
